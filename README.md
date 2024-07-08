@@ -7,7 +7,10 @@ Land mines can be detected with high precision active detectors. However, the pr
 
 The land-mine dataset variables are defined below:
 
-V -> output voltage of sensor due to magnetic distortion
-H -> height of the sensor from the ground
-S -> 6 different soil types depending on moisture condition: 0.0-(Dry & Sandy), 0.2-(Dry & Humus), 0.4-(Dry & Limy), 0.6-(Humid & Sandy), 0.8-(Humid & Humus), 1.0-(Humid & Limy).
-M -> 5 different land-mine types: 0(Null), 1(Anti-Tank), 2(Anti-Personnel), 3(Booby Trapped Anti-Personnel), 4(M14 Anti-Personnel)
+V = output voltage of sensor due to magnetic distortion
+
+H = height of the sensor from the ground
+
+S = 6 different soil types depending on moisture condition: 0.0-(Dry & Sandy), 0.2-(Dry & Humus), 0.4-(Dry & Limy), 0.6-(Humid & Sandy), 0.8-(Humid & Humus), 1.0-(Humid & Limy).
+
+M = 5 different land-mine types: 0(Null), 1(Anti-Tank), 2(Anti-Personnel), 3(Booby Trapped Anti-Personnel), 4(M14 Anti-Personnel)
